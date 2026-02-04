@@ -16,6 +16,14 @@ The goal of this project is to demonstrate practical data analysis workflow: pre
 
 ---
 
+## Key Insights
+- Finance purchases significantly outweigh cash purchases across all brands.
+- Toyota and Suzuki consistently lead total unit sales.
+- Local sales dominate overall volume compared to exports.
+- Brand performance remains relatively stable month-to-month.
+- Chinese manufacturers (e.g., Chery, GWM) show strong growth in sales volume during 2025, indicating a shifting competitive landscape and increasing pressure on established legacy brands.
+
+
 ## Skills Demonstrated
 - Tableau Public: dashboard design, charts, and filters  
 - Data Analysis: transaction and sales trends, local vs export performance  
