@@ -1,3 +1,8 @@
+[![Tableau](https://img.shields.io/badge/Tableau-3498db?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
+[![SQL](https://img.shields.io/badge/SQL-007ACC?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
+[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
+
 # Vehicle Sales Dashboard 2025
 
 ## Project Overview
@@ -8,11 +13,12 @@ The dashboard was created using a cleaned CSV dataset and focuses on clear visua
 ---
 
 ## Skills Demonstrated
-- Tableau Public: dashboard design, charts, and filters
-- Data Analysis: transaction and sales trends, local vs export performance
-- KPI Tracking: monitoring brand sales performance over time
-- Data Visualization: line charts, bar charts, and comparative analysis
-- Dashboard Development: interactive filters, clear labeling, and layout
+- Tableau Public: dashboard design, charts, and filters  
+- Data Analysis: transaction and sales trends, local vs export performance  
+- **SQL & Data Hygiene:** cleaning, validating, and preparing datasets for accurate reporting  
+- KPI Tracking: monitoring brand sales performance over time  
+- Data Visualization: line charts, bar charts, and comparative analysis  
+- Dashboard Development: interactive filters, clear labeling, and layout  
 
 ---
 
