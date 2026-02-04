@@ -5,11 +5,14 @@
 
 # Vehicle Sales Dashboard 2025
 
-## Project Overview
-This project is an **interactive Tableau dashboard** analyzing South African vehicle sales in 2025.  
-It provides insights into **brand performance, monthly trends, and payment type distribution** for both local and export units.  
-The dashboard was created using a cleaned CSV dataset sourced from **NAAMSA** (National Association of Automobile Manufacturers of South Africa), with some missing monthly figures **interpolated** to ensure consistent analysis.  
-The focus is on clear visual storytelling for **data-driven decision-making**.
+## 📊 Project Overview
+
+This project showcases a Tableau dashboard analyzing South African vehicle sales for 2025, focusing on brand performance, payment types (Cash vs Finance), and local vs export unit trends.
+
+The dataset was sourced from **NAAMSA** (National Association of Automobile Manufacturers of South Africa) and consolidated into a single CSV. Some missing monthly figures were **interpolated** to create a continuous dataset. As a result, figures may not be 100% exact and are intended to **demonstrate analytical, data cleaning, and visualization skills** rather than serve as official statistics.
+
+The goal of this project is to demonstrate practical data analysis workflow: preparing raw data, building clear visualizations, and presenting insights in a business-friendly dashboard.
+
 
 ---
 
