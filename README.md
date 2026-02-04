@@ -63,12 +63,5 @@ The goal of this project is to demonstrate practical data analysis workflow: pre
 
 ---
 
-## Key Insights
-- Top-performing brands by local and export units  
-- Monthly sales trends highlighting seasonal variations  
-- Finance vs Cash payment type trends across brands  
-
----
-
 💡 **Tip for Recruiters/Portfolio:**  
 This dashboard demonstrates the ability to **clean data, analyze trends, and build interactive dashboards** ready for operational or business insights.
