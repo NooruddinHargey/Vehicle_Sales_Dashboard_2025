@@ -8,7 +8,8 @@
 ## Project Overview
 This project is an **interactive Tableau dashboard** analyzing South African vehicle sales in 2025.  
 It provides insights into **brand performance, monthly trends, and payment type distribution** for both local and export units.  
-The dashboard was created using a cleaned CSV dataset and focuses on clear visual storytelling for **data-driven decision-making**.
+The dashboard was created using a cleaned CSV dataset sourced from **NAAMSA** (National Association of Automobile Manufacturers of South Africa), with some missing monthly figures **interpolated** to ensure consistent analysis.  
+The focus is on clear visual storytelling for **data-driven decision-making**.
 
 ---
 
